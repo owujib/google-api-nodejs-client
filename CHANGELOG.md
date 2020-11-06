@@ -4,6 +4,39 @@
 
 [1]: https://www.npmjs.com/package/googleapis?activeTab=versions
 
+## [65.0.0](https://www.github.com/googleapis/google-api-nodejs-client/compare/v64.0.0...v65.0.0) (2020-11-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* **ml:** This release has breaking changes.
+* **managedidentities:** This release has breaking changes.
+* **cloudresourcemanager:** This release has breaking changes.
+
+### Features
+
+* regenerate index files ([c8329fb](https://www.github.com/googleapis/google-api-nodejs-client/commit/c8329fb2855c1f3b54aa26779f9463ffa8bf8b8a))
+* **area120tables:** update the API ([236d533](https://www.github.com/googleapis/google-api-nodejs-client/commit/236d533367ae332c9d384077371a8e783af95019))
+* **cloudasset:** update the API ([5995488](https://www.github.com/googleapis/google-api-nodejs-client/commit/59954889eedf8b3e18078d8b641afe8fb4ebe6f8))
+* **cloudresourcemanager:** update the API ([b708ab7](https://www.github.com/googleapis/google-api-nodejs-client/commit/b708ab7cc1503c694337f31bd72a799ea61909ba))
+* **deploymentmanager:** update the API ([432e7f9](https://www.github.com/googleapis/google-api-nodejs-client/commit/432e7f9b7d159e91f1e5bde519fa56a55d983283))
+* **dialogflow:** update the API ([82d0dba](https://www.github.com/googleapis/google-api-nodejs-client/commit/82d0dbaedd20cb2c380a88d2f29bb57c6c997301))
+* **dns:** update the API ([9c8668b](https://www.github.com/googleapis/google-api-nodejs-client/commit/9c8668be916a2c15e8e0c34ba8831868dec29d44))
+* **file:** update the API ([b9465c3](https://www.github.com/googleapis/google-api-nodejs-client/commit/b9465c35968aa7a584192772f88382a123f38d17))
+* **managedidentities:** update the API ([e7f2840](https://www.github.com/googleapis/google-api-nodejs-client/commit/e7f2840038b147d51edb8fcd91f8d3be37c616dd))
+* **ml:** update the API ([41fc95d](https://www.github.com/googleapis/google-api-nodejs-client/commit/41fc95d2de4d451f2e6dcbb79888204ba8d357e7))
+* **run:** update the API ([f10e719](https://www.github.com/googleapis/google-api-nodejs-client/commit/f10e71930b47e3d35af7a30ffe7133b7a8576bf4))
+* **servicemanagement:** update the API ([d5e54c2](https://www.github.com/googleapis/google-api-nodejs-client/commit/d5e54c2cdd01741e70e7f104b7787642ab544182))
+* **servicenetworking:** update the API ([3aa40a2](https://www.github.com/googleapis/google-api-nodejs-client/commit/3aa40a24a641960a469c25b531beed875f941ffb))
+
+
+### Bug Fixes
+
+* **cloudidentity:** update the API ([fb961aa](https://www.github.com/googleapis/google-api-nodejs-client/commit/fb961aa105c51d981c5d7251d5907e6b507fcc97))
+* **displayvideo:** update the API ([a29648b](https://www.github.com/googleapis/google-api-nodejs-client/commit/a29648b4c73d7df47755cb5943636400b1f7800b))
+* **serviceconsumermanagement:** update the API ([97ea611](https://www.github.com/googleapis/google-api-nodejs-client/commit/97ea611f978e28a24ee6474b4bc8cabd5e92f489))
+* **serviceusage:** update the API ([da56c9f](https://www.github.com/googleapis/google-api-nodejs-client/commit/da56c9fed6d80811e8174523572d491b9e5f5c22))
+
 ## [64.0.0](https://www.github.com/googleapis/google-api-nodejs-client/compare/v63.0.0...v64.0.0) (2020-11-05)
 
 
